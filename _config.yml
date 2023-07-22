@@ -121,8 +121,8 @@ live2d:
     use: live2d-widget-model-wanko
   display:
     position: right #动画位置
-    width: 150
-    height: 190
+    width: 300
+    height: 380
     # 位置配置，这个在左侧边栏位置很居中
     hOffset: 50  # 调节水平位置
     vOffset: -5  # 调节垂直位置
